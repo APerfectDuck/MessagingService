@@ -1,0 +1,7 @@
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\obj\Debug\MessageService.csprojAssemblyReference.cache
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\bin\MessageService.dll.config
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\bin\MessageService.dll
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\bin\MessageService.pdb
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\obj\Debug\MessageService.dll
+C:\Users\ahadd\source\repos\HaddadAlbertHW5\MessageService\obj\Debug\MessageService.pdb
